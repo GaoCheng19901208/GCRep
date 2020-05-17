@@ -4,3 +4,4 @@ Arsenal
 Chelsea
 Spurs
 Manchester City
+Everton
